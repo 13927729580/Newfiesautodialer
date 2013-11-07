@@ -1,9 +1,7 @@
-.. image:: https://github.com/Star2Billing/newfies-dialer/raw/master/newfies/resources/images/newfies.png
-
-.. image:: https://secure.travis-ci.org/Star2Billing/newfies-dialer.png?branch=develop
+http://voiceblasting.blogspot.com/
 
 
-Newfies-Dialer is a free and open source voice broadcast application, which
+NewfiesAutodialer is a free and open source voice broadcast application, which
 can fulfil a variety of roles for a range of industries and organisations who
 wish to contact large numbers of people by phone in a short space of time.
 
@@ -135,12 +133,11 @@ Documentation
 
 Complete documentation :
 
-    - http://docs.newfies-dialer.org/
+http://voiceblasting.blogspot.com/
 
 Beginner's Guide :
 
-    - http://www.newfies-dialer.org/documentation/beginners-guide/
-
+http://voiceblasting.blogspot.com/
 
 Screenshot
 ----------
@@ -152,8 +149,7 @@ Screenshot
     the User's Campaign, Phonebook, Subscriber. It also provides detailed
     Reporting of calls and message delivery.
 
-.. image:: https://github.com/Star2Billing/newfies-dialer/raw/develop/docs/source/_static/images/customer_screenshot.png
-
+http://voiceblasting.blogspot.com/
 
 * Admin Dashboard :
 
@@ -162,8 +158,7 @@ Screenshot
     Campaigns, Phonebooks, Subscribers, Gateway, configuration of the
     Audio Application.
 
-.. image:: https://github.com/Star2Billing/newfies-dialer/raw/develop/docs/source/_static/images/admin_screenshot.png
-
+http://voiceblasting.blogspot.com/
 
 Coding Conventions
 ------------------
@@ -185,19 +180,7 @@ Additional information
 
 * Official website : http://www.newfiesdialer.com
 
-* `Google Group`_ - the mailing list is newfies-dialer@googlegroups.com
-
-* `Forum`_
-
-* `Continuous integration homepage`_ on `travis-ci.org`_
-
-* `Twitter account for news and updates`_
-
-.. _`Continuous integration homepage`: http://travis-ci.org/#!/Star2Billing/newfies-dialer
-.. _`travis-ci.org`: http://travis-ci.org/
-.. _`Twitter account for news and updates`: https://twitter.com/newfies_dialer
-.. _`Google Group`: https://groups.google.com/forum/?fromgroups#!forum/newfies-dialer
-.. _`Forum`: http://forum.newfies-dialer.org/
+http://voiceblasting.blogspot.com/
 
 
 Support
@@ -209,5 +192,5 @@ For more information, see http://www.star2billing.com
 Star2Billing S.L. (http://www.star2billing.com) offers consultancy including
 installation, training and customization
 
-Please email us at newfies-dialer@star2billing.com for more information
+Please email us at garymcneish@gmail.com for more information
 
